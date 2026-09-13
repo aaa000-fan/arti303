@@ -1,0 +1,7 @@
+2026-09-13 16:54:35,351 | INFO     | Logger ready
+2026-09-13 16:54:35,360 | WARNING  | This is what a warning looks like
+2026-09-13 16:55:25,487 | WARNING  | Skipped row: name,gpa
+2026-09-13 16:55:25,491 | WARNING  | Skipped row: Faisal Alharbi,N/A
+2026-09-13 16:55:25,493 | WARNING  | Skipped row: Omar Alshehri,
+2026-09-13 16:55:25,495 | INFO     | Loaded 3 students
+2026-09-13 16:55:29,818 | ERROR    | File not found: data/nope.csv
